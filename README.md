@@ -15,9 +15,8 @@ Attended Sessions
 - ActionCable for Not-Another-Chat-App-Please  
 - Rails 5 Features You Haven't Heard About
 - Introduction to concurrency in Ruby  
-- ??
+- ?? 2:40 PM
 - RSpec and Rails 5
-- Face palm to Foolproof: Avoiding Common Production Pitfalls  
 - Lightning Talks
 
 
