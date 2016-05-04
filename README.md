@@ -5,8 +5,8 @@ Attended Sessions
 ## Wednesday
 - Rediscovering ActiveRecord
 - Multi-table Full Text Search
-- The Rails Boot Process
-- From zero to API hero: Consuming APIs like a pro
+- Foreign API Simulation with Sinatra
+- 3x Rails: Tuning the Framework Internals
 - Zen and the Art of the Controller  
 - Face palm to Foolproof: Avoiding Common Production Pitfalls
 
